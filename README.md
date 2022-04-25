@@ -16,7 +16,9 @@
 * Создание скрипта для автоматического выполнения команд
 * Отправка http запроса
 
-> Описание задания - [homework.txt](https://github.com/Dmitry-bond/bash_commands/blob/main/homework.txt)
+> Описание заданий 
+> 1) [homework.txt](https://github.com/Dmitry-bond/bash_commands/blob/main/homework.txt)
+> 2) [homework_2.txt](https://github.com/setter-getter/bash_commands/blob/main/homework_2.txt)
 > 
 > Выполнение заданий:
 > 1) [HW_terminal_linux.md](https://github.com/Dmitry-bond/bash_commands/blob/main/HW_terminal_linux.md)
