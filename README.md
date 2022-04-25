@@ -18,6 +18,8 @@
 
 > Описание задания - [homework.txt](https://github.com/Dmitry-bond/bash_commands/blob/main/homework.txt)
 > 
-> Выполнение задания - [HW_terminal_linux.md](https://github.com/Dmitry-bond/bash_commands/blob/main/HW_terminal_linux.md)
+> Выполнение заданий:
+> 1) [HW_terminal_linux.md](https://github.com/Dmitry-bond/bash_commands/blob/main/HW_terminal_linux.md)
+> 2) [HW_2_terminal_linux.md](https://github.com/setter-getter/bash_commands/blob/main/HW_2_terminal_linux.md)
 
 
