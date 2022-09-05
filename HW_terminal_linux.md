@@ -11,7 +11,7 @@
 
 3) Зайти в папку 
 
-`cd foldernane`
+`cd foldername`
 
 4) Создать 3 папки 
 
